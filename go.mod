@@ -1,4 +1,4 @@
-module github.com/usmanager/manager/registration-client-go
+module github.com/usmanager/registration-client-go
 
 go 1.13
 
